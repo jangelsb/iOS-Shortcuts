@@ -1,2 +1,0 @@
-1.0
-workflow://import-workflow/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjangelsb%2FiOS-Shortcuts%2Fmaster%2FOpen%2520Spotify%2520Link%2520in%2520Apple%2520Music%2FOpen%2520Spotify%2520Link%2520In%2520Apple%2520Music.shortcut
